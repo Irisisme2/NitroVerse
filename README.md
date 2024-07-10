@@ -5,6 +5,8 @@ NitroVerse is a revolutionary decentralized application (dApp) built during Rout
 
 NitroVerse allows users to explore, interact, and transact across multiple blockchains such as Ethereum, Polygon, Tron, and more through a single unified interface. Users can seamlessly navigate between different blockchain networks, participate in cross-chain transactions, and engage with decentralized applications regardless of their native blockchain.
 
+![explore.png](https://cdn.dorahacks.io/static/files/1909c59cb71bbaebf498d854062a153d.png)
+
 ### Key Features
 - **Multi-Blockchain Navigation**: Navigate between Ethereum, Polygon, Tron, and other supported blockchains effortlessly.
 - **Cross-Chain Transactions**: Conduct transactions across different blockchains with minimal friction.
@@ -20,6 +22,8 @@ NitroVerse addresses the growing demand for interoperability solutions in the bl
 
 ### Sustainability
 With a focus on scalability and user adoption, NitroVerse aims to establish itself as a sustainable platform within the blockchain ecosystem. By fostering developer engagement and community participation through Router Protocol's Dev Ambassador 2.0 Program and grant initiatives, NitroVerse plans to evolve into a vibrant metaverse ecosystem supported by a robust community and sustainable business model.
+
+![trans.png](https://cdn.dorahacks.io/static/files/1909c86f17414561ebb51b84a2fb88cc.png)
 
 ### Project Long-term Vision
 NitroVerse envisions becoming the go-to platform for exploring and interacting with the interconnected blockchain universe. By continuously expanding support for additional blockchains and integrating new features based on user feedback, NitroVerse strives to redefine how users experience blockchain interoperability. Through strategic partnerships and ongoing development efforts, NitroVerse aims to lead the charge towards a more interconnected and user-friendly blockchain ecosystem.
