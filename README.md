@@ -1,115 +1,27 @@
-# [Horizon UI ⚡️](https://horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
+### Project Description
+NitroVerse is a revolutionary decentralized application (dApp) built during Router Protocol's Nitrothon using React.js and Router Nitro TS SDK. The core concept behind NitroVerse is to create a vibrant metaverse of interconnected blockchain ecosystems, leveraging the power of Router Nitro for seamless cross-chain interoperability.
 
-![version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
+![nitroverse1.png](https://cdn.dorahacks.io/static/files/1909c34b4dbe174f58f06c4451e8be46.png)
 
-<p>&nbsp;</p>
+NitroVerse allows users to explore, interact, and transact across multiple blockchains such as Ethereum, Polygon, Tron, and more through a single unified interface. Users can seamlessly navigate between different blockchain networks, participate in cross-chain transactions, and engage with decentralized applications regardless of their native blockchain.
 
-[<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+### Key Features
+- **Multi-Blockchain Navigation**: Navigate between Ethereum, Polygon, Tron, and other supported blockchains effortlessly.
+- **Cross-Chain Transactions**: Conduct transactions across different blockchains with minimal friction.
+- **Unified User Experience**: Provide users with a seamless and intuitive interface for interacting with diverse blockchain ecosystems.
+- **Decentralized Applications Hub**: Showcase and integrate popular dApps from various blockchains within NitroVerse.
+- **Community-driven Governance**: Implement governance mechanisms powered by Router Protocol for community voting and decision-making.
 
-<p>&nbsp;</p>
+### How NitroVerse Utilizes Router Nitro
+NitroVerse integrates deeply with Router Nitro's TS SDK to ensure robust cross-chain functionalities. By utilizing Router Nitro's Path Finder API, NitroVerse optimizes transaction routes, enhances transaction speeds, and improves overall reliability of cross-chain interactions. This integration not only enhances user experience but also showcases the potential of Router Nitro in enabling scalable and secure cross-chain solutions.
 
+### Market Potential
+NitroVerse addresses the growing demand for interoperability solutions in the blockchain space. As blockchain adoption continues to expand across various industries, NitroVerse positions itself as a crucial infrastructure layer, facilitating seamless connectivity between disparate blockchain networks. This initiative not only serves developers and enthusiasts but also attracts mainstream users looking for unified blockchain experiences.
 
-Get started and build your dream web app with Horizon UI, the most trendiest &
-innovative Open Source Admin Template for Chakra UI & React!
+### Sustainability
+With a focus on scalability and user adoption, NitroVerse aims to establish itself as a sustainable platform within the blockchain ecosystem. By fostering developer engagement and community participation through Router Protocol's Dev Ambassador 2.0 Program and grant initiatives, NitroVerse plans to evolve into a vibrant metaverse ecosystem supported by a robust community and sustainable business model.
 
----
+### Project Long-term Vision
+NitroVerse envisions becoming the go-to platform for exploring and interacting with the interconnected blockchain universe. By continuously expanding support for additional blockchains and integrating new features based on user feedback, NitroVerse strives to redefine how users experience blockchain interoperability. Through strategic partnerships and ongoing development efforts, NitroVerse aims to lead the charge towards a more interconnected and user-friendly blockchain ecosystem.
 
-### Introduction
-
-Designed for those who like modern UI elements and beautiful websites. Made of
-hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
-to help you create stunning websites and webapps.
-
-Save hundreds of hours trying to create and develop a dashboard from scratch.
-The fastest, most responsive & trendiest dashboard is here. Seriously.
-
-With Horizon UI you will find many examples for pages like NFTs Pages,
-Authentication Pages, Profile and so on. Just choose between a Basic Design or a
-cover and you are good to go!
-
-### 🎉 [NEW] Horizon UI Components
-All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
-<a href="https://horizon-ui.com/components/?ref=readme-horizon" target="_blank">See all components</a>
-
-
-### Documentation
-
-Each element is well presented in a very complex documentation. You can read
-more about the <a href="https://horizon-ui.com/documentation/docs/introduction?ref=readme-horizon" target="_blank">documentation
-here.</a>
-
-### Quick Start
-
-Install Horizon UI by running either of the following:
-
-- Install NodeJS LTS from
-  [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation)
-  (NOTE: Product only works with LTS version)
-
-Clone the repository with the following command:
-
-```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra.git
-```
-
-Run in terminal this command:
-
-```bash
-npm install
-```
-
-Then run this command to start your local server
-
-```bash
-npm start
-```
-
-### Example Pages
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will
-be able to quickly set up the basic structure for your web project. View
-<a href="https://horizon-ui.com/horizon-ui-chakra/?ref=readme-horizon" target="_blank">example
-pages here.</a>
-
-### Versions
-
-| Free Version                                                                                                       | PRO Version                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
-
-### Figma Version
-
-Horizon UI is available in Figma format as well! Check it out on Figma
-Community! 🎨
-[See the Horizon UI Figma design files](https://bit.ly/horizon-figma)
-
-### Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
-some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
-   Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-chakra/blob/main/CHANGELOG.md?ref=readme-horizon).
-2. Providing us reproducible steps for the issue will shorten the time it takes
-   for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you
-   encountered the issue might help.
-
----
-
-### Community
-
-Connect with the community! Feel free to ask questions, report issues, and meet
-new people that already use Horizon UI!
-
-💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
-
-### Copyright and license
-
-⭐️ [Copyright 2023 Simmmple ](https://www.simmmple.com/?ref=readme-horizon)
-
-📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon)
+Join NitroVerse in shaping the future of blockchain interoperability and experience a new dimension of decentralized innovation.
